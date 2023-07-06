@@ -1,0 +1,26 @@
+Title: Portada
+
+----
+
+Imagen:
+
+- portada.jpg
+
+----
+
+Titulo:
+
+PRIN 
+**Proyectos inmobiliarios** y Diseño Urbano
+
+----
+
+Texto: Nuestra prioridad el diseño de tus sueños
+
+----
+
+Boton: Conócenos
+
+----
+
+Enlace: #

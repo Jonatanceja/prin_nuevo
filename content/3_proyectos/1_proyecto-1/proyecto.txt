@@ -1,0 +1,41 @@
+Title: Proyecto 1
+
+----
+
+Portada: - galeria-1.jpg
+
+----
+
+Galeria:
+
+- galeria-1.jpg
+- galeria-2.jpg
+- galeria-3.jpg
+- galeria-4.jpg
+
+----
+
+Subtitulo: Lorem Ipsum
+
+----
+
+Titulo: Si sine causa, nollem me ab illo inventore
+
+----
+
+Contenido:
+
+Torquatos nostros? quos dolores et dolorem? sunt autem quibusdam et iusto odio dignissimos ducimus, qui dolorem ipsum per se esse fugiendum itaque aiunt hanc quasi architecto beatae vitae sine causa, nollem me ab illo inventore veritatis et fortibus viris commemorandis eorumque.
+
+- Torquatos nostros? quos dolores et 
+- dolorem? sunt autem quibusdam et 
+- iusto odio dignissimos ducimus 
+- qui dolorem ipsum per se esse 
+- fugiendum itaque aiunt hanc quasi 
+- architecto beatae vitae sine causa, 
+- nollem me ab illo inventore veritatis et 
+- fortibus viris commemorandis eorumque.
+
+----
+
+Uuid: LqwAn41NxTRMWZDD

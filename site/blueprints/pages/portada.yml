@@ -1,0 +1,20 @@
+title: Portada
+
+fields:
+  imagen:
+    label: Imagen de portada
+    type: files
+    max: 1
+    layout: list
+  titulo:
+    label: Titulo de portada
+    type: textarea
+  texto: 
+    label: Texto de portada
+    type: textarea
+  boton:
+    label: Texto del botón
+    type: text
+  enlace: 
+    label: Enlace del botón
+    type: text

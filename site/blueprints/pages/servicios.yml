@@ -1,0 +1,16 @@
+title: Introducción
+
+fields:
+  servicios: 
+    type: structure
+    fields:
+      titulo:
+        type: text
+        title: Servicio
+      texto: 
+        type: textarea
+        title: Servicio
+  fondo:
+    type: files
+    title: Imagen de fondo
+    max: 1

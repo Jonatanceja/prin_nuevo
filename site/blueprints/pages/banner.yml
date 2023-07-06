@@ -1,0 +1,23 @@
+title: Banner
+
+fields:
+  imagen:
+    label: Imagen de portada
+    type: files
+    max: 1
+    layout: list
+  subtitulo:
+    label: Subtitulo superior
+    type: text
+  titulo:
+    label: Titulo de portada
+    type: textarea
+  texto: 
+    label: Texto de portada
+    type: textarea
+  boton:
+    label: Texto del botón
+    type: text
+  enlace: 
+    label: Enlace del botón
+    type: text

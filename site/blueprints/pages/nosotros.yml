@@ -1,0 +1,17 @@
+icon: home
+preset: page
+url: false
+
+sections:
+  parts:
+    headline: Secciones
+    type: pages
+    status: all
+    info: "{{ page.intendedTemplate }}"
+    image: false
+    templates:
+      - topbanner
+      - banner
+      - texto-recuadro
+      - blurb
+      - banner

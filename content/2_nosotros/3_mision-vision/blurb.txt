@@ -1,0 +1,37 @@
+Title: Misión Visión
+
+----
+
+Blurbs:
+
+- 
+  imagen:
+    - mision.jpg
+  titulo: Misión
+  texto: >
+    Nuestra misión es el desarrollo de
+    proyectos con diseño de vanguardia que
+    cumplan con las mejores prácticas
+    internacionales en sustentabilidad, con
+    el fin de lograr la satisfacción de
+    nuestros clientes y colaboradores.
+- 
+  imagen:
+    - vision.jpg
+  titulo: Visión
+  texto: >
+    La visión de las y los que formamos
+    parte del equipo de PRIN es contribuir
+    con diseños acordes al progreso social,
+    enfocándonos en el desarrollo de
+    proyectos sustentables que coadyuven a
+    la creación de un mejor futuro.
+- 
+  imagen:
+    - valores.jpg
+  titulo: Valores
+  texto: >
+    Nos caracterizan los valores de
+    honestidad, compromiso, legalidad,
+    sustentabilidad, empatía,
+    profesionalismo.

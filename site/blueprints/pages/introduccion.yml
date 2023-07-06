@@ -1,0 +1,12 @@
+title: Introducción
+
+fields:
+  subtitulo:
+    label: Subtitulo superior
+    type: text
+  titulo: 
+    label: Titúlo
+    type: textarea
+  texto:
+    label: Texto del botón
+    type: textarea

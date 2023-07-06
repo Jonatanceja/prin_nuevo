@@ -1,0 +1,33 @@
+title: Detalles de contacto
+
+fields: 
+  titulo:
+    label: Título
+    type: text
+  subtitulo:
+    label: Subtítulo
+    type: text
+  direccion:
+    label: Dirección
+    type: textarea
+  telefono:
+    type: text
+    label: Teléfono
+  whatsapp:
+    type: text
+    label: Whatsapp
+  redes:
+    label: Redes sociales
+    type: structure
+    fields:
+      red:
+        label: Red social
+        type: select
+        options:
+          fa-facebook-f: Facebook
+          fa-twitter: Twitter
+          fa-instagram: Instagram
+          fa-linkedin-in: Linkedin
+      enlace:
+        label: Enlace de red social
+        type: url

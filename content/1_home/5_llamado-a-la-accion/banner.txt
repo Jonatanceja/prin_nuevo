@@ -1,0 +1,27 @@
+Title: Llamado a la acción
+
+----
+
+Imagen:
+
+- banner-contacto.jpg
+
+----
+
+Subtitulo: Proyectos sustentables
+
+----
+
+Titulo: Captación de agua de lluvia, energía solar y otros.
+
+----
+
+Texto: Nuestros colaboradores comparten nuestros valores y en conjunto diseñamos desarrollos que que van desde captación de agua de lluvia para uso doméstico como funcionamiento integral de viviendas con energía solar. Conócenos y te podremos brindar asesoría para tus instalaciones, acompañamiento o desarrollo de tus ideas.
+
+----
+
+Boton: Contacto
+
+----
+
+Enlace: /contacto

@@ -1,0 +1,18 @@
+title: Misión visión
+
+
+fields:
+  blurbs:
+    type: structure
+    label: Recuadros
+    fields:
+      imagen:
+        type: files
+        label: Imagen
+        max: 1
+      titulo:
+        type: text
+        title: Titúlo
+      texto:
+        type: textarea
+        label: Texto

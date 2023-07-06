@@ -1,0 +1,162 @@
+Title: Contacto
+
+----
+
+Fb-form-settings: true
+
+----
+
+Fb-form-id: 
+
+----
+
+Fb-form-class: 
+
+----
+
+Fb-usediv: true
+
+----
+
+Fb-builder:
+
+- 
+  field_name: nombre
+  field_class: ""
+  req: 'false'
+  field_label: Nombre
+  placeholder: ""
+  default: ""
+  min: null
+  max: null
+  pattern: ""
+  _key: fb_text
+  _uid: fb_text_1610731636356_440
+- 
+  field_name: email
+  field_class: ""
+  req: 'false'
+  field_label: Email
+  placeholder: ""
+  default: ""
+  min: null
+  max: null
+  pattern: ""
+  _key: fb_email
+  _uid: fb_email_1610731659846_440
+- 
+  field_name: telefono
+  field_class: ""
+  req: 'false'
+  field_label: Teléfono
+  placeholder: ""
+  default: ""
+  min: null
+  max: null
+  pattern: ""
+  _key: fb_tel
+  _uid: fb_tel_1610731669308_440
+- 
+  field_name: mensaje
+  field_class: ""
+  req: 'false'
+  field_label: Mensaje
+  placeholder: ""
+  default: ""
+  min: null
+  max: null
+  rows: null
+  _key: fb_textarea
+  _uid: fb_textarea_1610731683191_440
+
+----
+
+Fb-submit-label: Enviar
+
+----
+
+Fb-cancel-label: 
+
+----
+
+Fb-formbtns-class: 
+
+----
+
+Fb-captcha: false
+
+----
+
+Fb-captcha-theme: false
+
+----
+
+Fb-captcha-secretkey: 
+
+----
+
+Fb-captcha-sitekey: 
+
+----
+
+Fb-is-ajax: true
+
+----
+
+Fb-msg-position: false
+
+----
+
+Fb-success-page: 
+
+----
+
+Fb-error-page: 
+
+----
+
+Fb-success-msg: Su formulario ha sido recibido. ¡Muchas gracias!
+
+----
+
+Fb-error-msg: Hubo un error al enviar el formulario.
+
+----
+
+Fb-send-email: true
+
+----
+
+Fb-email-recipient: jonatanjonas@gmail.com
+
+----
+
+Fb-email-sender-type: true
+
+----
+
+Fb-email-sender: 
+
+----
+
+Fb-email-sender-field: email
+
+----
+
+Fb-email-subject: Mensaje desde el sitio Web PRIN
+
+----
+
+Fb-save-submissions: true
+
+----
+
+Fb-key-field: nombre
+
+----
+
+Fb-received-submissions: 
+
+----
+
+Uuid: vW3qTrJMQKWVtd4M

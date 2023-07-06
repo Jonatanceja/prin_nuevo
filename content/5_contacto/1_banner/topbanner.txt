@@ -1,0 +1,11 @@
+Title: Banner
+
+----
+
+Imagen:
+
+- banner-contacto.png
+
+----
+
+Titulo: Proyectamos tus sueños, contáctanos.

@@ -1,0 +1,21 @@
+title: Proyecto
+
+fields:
+  portada:
+    type: files
+    label: Portada
+    max: 1
+  galeria:
+    type: files
+    label: Galeria
+    layout:
+  subtitulo:
+    label: Sutitúlo 
+    type: text
+  titulo:
+    label: Titúlo
+    type: text
+  contenido:
+    label: Descripción del proyecto
+    type: textarea
+

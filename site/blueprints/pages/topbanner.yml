@@ -1,0 +1,11 @@
+title: Banner top
+
+fields:
+  imagen:
+    label: Imagen de portada
+    type: files
+    max: 1
+    layout: list
+  titulo:
+    label: Titúlo
+    type: textarea

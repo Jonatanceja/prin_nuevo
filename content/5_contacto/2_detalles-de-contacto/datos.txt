@@ -1,0 +1,39 @@
+Title: Detalles de contacto
+
+----
+
+Titulo: CDMX
+
+----
+
+Subtitulo: Nuestras oficinas
+
+----
+
+Direccion:
+
+Av. Montevideo 303, Int. 404
+Colonia Lindavista, CP 07300 
+Alcaldía GAM CDMX
+
+----
+
+Telefono: 5561758861
+
+----
+
+Whatsapp: 5561758861
+
+----
+
+Redes:
+
+- 
+  red: fa-facebook-f
+  enlace: https://www.facebook.com/
+- 
+  red: fa-twitter
+  enlace: https://www.twitter.com/
+- 
+  red: fa-instagram
+  enlace: https://instagram.com

@@ -1,0 +1,18 @@
+title: Texto principal
+
+fields:
+  subtitulo:
+    label: Subtitulo superior
+    type: text
+  titulo: 
+    label: Titúlo
+    type: textarea
+  texto:
+    label: Texto
+    type: textarea
+  boton:
+    label: Texto del botón
+    type: text
+  enlace: 
+    label: Enlace del botón
+    type: text

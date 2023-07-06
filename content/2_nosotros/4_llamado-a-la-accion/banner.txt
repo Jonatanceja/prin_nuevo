@@ -1,0 +1,27 @@
+Title: Llamado a la acción
+
+----
+
+Imagen:
+
+- banner-nosotros.jpg
+
+----
+
+Subtitulo: Invierte en tu futuro
+
+----
+
+Titulo: Conoce **nuestros desarrollos**
+
+----
+
+Texto: Ofrecemos desarrollos de alta plusvalía a un precio competitivo en el mercado; lo más importante, respetando el entorno y pensando en tu comodidad.
+
+----
+
+Boton: Conócenos
+
+----
+
+Enlace: #

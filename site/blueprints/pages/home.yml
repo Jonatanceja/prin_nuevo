@@ -1,0 +1,17 @@
+title: Inicio
+icon: home
+preset: page
+
+sections:
+  parts:
+    headline: Secciones
+    type: pages
+    status: all
+    info: "{{ page.intendedTemplate }}"
+    image: false
+    templates:
+      - portada
+      - introduccion
+      - servicios
+      - relacionados
+      - banner

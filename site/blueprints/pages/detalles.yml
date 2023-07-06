@@ -1,0 +1,15 @@
+title: Detalles
+preset: page
+
+sections:
+  parts:
+    headline: Secciones
+    type: pages
+    status: all
+    info: "{{ page.intendedTemplate }}"
+    image: false
+    templates:
+      - topbanner
+      - banner
+      - servicio1
+      - servicio2

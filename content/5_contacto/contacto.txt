@@ -1,0 +1,553 @@
+Title: Contacto
+
+----
+
+Fb-form-settings: true
+
+----
+
+Fb-form-id: 
+
+----
+
+Fb-form-class: 
+
+----
+
+Fb-usediv: true
+
+----
+
+Fb-builder:
+
+- 
+  field_name: nombre
+  field_class: ""
+  req: 'false'
+  field_label: Nombre
+  placeholder: ""
+  default: ""
+  min: null
+  max: null
+  pattern: ""
+  _key: fb_text
+  _uid: fb_text_1610731636356_440
+- 
+  field_name: email
+  field_class: ""
+  req: 'false'
+  field_label: Email
+  placeholder: ""
+  default: ""
+  min: null
+  max: null
+  pattern: ""
+  _key: fb_email
+  _uid: fb_email_1610731659846_440
+- 
+  field_name: telefono
+  field_class: ""
+  req: 'false'
+  field_label: Teléfono
+  placeholder: ""
+  default: ""
+  min: null
+  max: null
+  pattern: ""
+  _key: fb_tel
+  _uid: fb_tel_1610731669308_440
+- 
+  field_name: mensaje
+  field_class: ""
+  req: 'false'
+  field_label: Mensaje
+  placeholder: ""
+  default: ""
+  min: null
+  max: null
+  rows: null
+  _key: fb_textarea
+  _uid: fb_textarea_1610731683191_440
+
+----
+
+Fb-submit-label: Enviar
+
+----
+
+Fb-cancel-label: 
+
+----
+
+Fb-formbtns-class: 
+
+----
+
+Fb-captcha: false
+
+----
+
+Fb-captcha-theme: false
+
+----
+
+Fb-captcha-secretkey: 
+
+----
+
+Fb-captcha-sitekey: 
+
+----
+
+Fb-is-ajax: true
+
+----
+
+Fb-msg-position: false
+
+----
+
+Fb-success-page: 
+
+----
+
+Fb-error-page: 
+
+----
+
+Fb-success-msg: Su formulario ha sido recibido. ¡Muchas gracias!
+
+----
+
+Fb-error-msg: Hubo un error al enviar el formulario.
+
+----
+
+Fb-send-email: true
+
+----
+
+Fb-email-recipient: cuentas@agavemkt.mx
+
+----
+
+Fb-email-sender-type: true
+
+----
+
+Fb-email-sender: 
+
+----
+
+Fb-email-sender-field: email
+
+----
+
+Fb-email-subject: Mensaje desde el sitio Web PRIN
+
+----
+
+Fb-save-submissions: true
+
+----
+
+Fb-key-field: nombre
+
+----
+
+Fb-received-submissions:
+
+- 
+  entry_date: 2021-11-04 14:24:40
+  entry_key: Jonatan Ceja
+  entry_content: |
+    NOMBRE: Jonatan Ceja
+    
+    EMAIL: jonatanjonas@gmail.com
+    
+    TELEFONO: 3321239962
+    
+    MENSAJE: Hola
+- 
+  entry_date: 2021-10-29 17:56:13
+  entry_key: 'Alejandro  Mendez'
+  entry_content: |
+    NOMBRE: Alejandro  Mendez
+    
+    EMAIL: soloyo_24@hotmail.com
+    
+    TELEFONO: 5548495621
+    
+    MENSAJE: información
+- 
+  entry_date: 2021-10-29 17:55:31
+  entry_key: 'Alejandro  Mendez'
+  entry_content: |
+    NOMBRE: Alejandro  Mendez
+    
+    EMAIL: soloyo_24@hotmail.com
+    
+    TELEFONO: 5547853523
+    
+    MENSAJE: Hola, quisiera saber mas sobre el proyecto, de preferencia por correo electrónico para leerla. gracias
+- 
+  entry_date: 2021-10-29 17:55:31
+  entry_key: 'Alejandro  Mendez'
+  entry_content: |
+    NOMBRE: Alejandro  Mendez
+    
+    EMAIL: soloyo_24@hotmail.com
+    
+    TELEFONO: 5547853523
+    
+    MENSAJE: Hola, quisiera saber mas sobre el proyecto, de preferencia por correo electrónico para leerla. gracias
+- 
+  entry_date: 2021-10-29 17:55:31
+  entry_key: 'Alejandro  Mendez'
+  entry_content: |
+    NOMBRE: Alejandro  Mendez
+    
+    EMAIL: soloyo_24@hotmail.com
+    
+    TELEFONO: 5547853523
+    
+    MENSAJE: Hola, quisiera saber mas sobre el proyecto, de preferencia por correo electrónico para leerla. gracias
+- 
+  entry_date: 2021-10-29 17:55:31
+  entry_key: 'Alejandro  Mendez'
+  entry_content: |
+    NOMBRE: Alejandro  Mendez
+    
+    EMAIL: soloyo_24@hotmail.com
+    
+    TELEFONO: 5547853523
+    
+    MENSAJE: Hola, quisiera saber mas sobre el proyecto, de preferencia por correo electrónico para leerla. gracias
+- 
+  entry_date: 2021-10-29 17:55:30
+  entry_key: 'Alejandro  Mendez'
+  entry_content: |
+    NOMBRE: Alejandro  Mendez
+    
+    EMAIL: soloyo_24@hotmail.com
+    
+    TELEFONO: 5547853523
+    
+    MENSAJE: Hola, quisiera saber mas sobre el proyecto, de preferencia por correo electrónico para leerla. gracias
+- 
+  entry_date: 2021-10-29 17:55:30
+  entry_key: 'Alejandro  Mendez'
+  entry_content: |
+    NOMBRE: Alejandro  Mendez
+    
+    EMAIL: soloyo_24@hotmail.com
+    
+    TELEFONO: 5547853523
+    
+    MENSAJE: Hola, quisiera saber mas sobre el proyecto, de preferencia por correo electrónico para leerla. gracias
+- 
+  entry_date: 2021-10-29 17:55:30
+  entry_key: 'Alejandro  Mendez'
+  entry_content: |
+    NOMBRE: Alejandro  Mendez
+    
+    EMAIL: soloyo_24@hotmail.com
+    
+    TELEFONO: 5547853523
+    
+    MENSAJE: Hola, quisiera saber mas sobre el proyecto, de preferencia por correo electrónico para leerla. gracias
+- 
+  entry_date: 2021-10-29 17:55:30
+  entry_key: 'Alejandro  Mendez'
+  entry_content: |
+    NOMBRE: Alejandro  Mendez
+    
+    EMAIL: soloyo_24@hotmail.com
+    
+    TELEFONO: 5547853523
+    
+    MENSAJE: Hola, quisiera saber mas sobre el proyecto, de preferencia por correo electrónico para leerla. gracias
+- 
+  entry_date: 2021-10-29 17:55:30
+  entry_key: 'Alejandro  Mendez'
+  entry_content: |
+    NOMBRE: Alejandro  Mendez
+    
+    EMAIL: soloyo_24@hotmail.com
+    
+    TELEFONO: 5547853523
+    
+    MENSAJE: Hola, quisiera saber mas sobre el proyecto, de preferencia por correo electrónico para leerla. gracias
+- 
+  entry_date: 2021-10-29 17:55:29
+  entry_key: 'Alejandro  Mendez'
+  entry_content: |
+    NOMBRE: Alejandro  Mendez
+    
+    EMAIL: soloyo_24@hotmail.com
+    
+    TELEFONO: 5547853523
+    
+    MENSAJE: Hola, quisiera saber mas sobre el proyecto, de preferencia por correo electrónico para leerla. gracias
+- 
+  entry_date: 2021-10-29 17:55:29
+  entry_key: 'Alejandro  Mendez'
+  entry_content: |
+    NOMBRE: Alejandro  Mendez
+    
+    EMAIL: soloyo_24@hotmail.com
+    
+    TELEFONO: 5547853523
+    
+    MENSAJE: Hola, quisiera saber mas sobre el proyecto, de preferencia por correo electrónico para leerla. gracias
+- 
+  entry_date: 2021-10-29 17:55:28
+  entry_key: 'Alejandro  Mendez'
+  entry_content: |
+    NOMBRE: Alejandro  Mendez
+    
+    EMAIL: soloyo_24@hotmail.com
+    
+    TELEFONO: 5547853523
+    
+    MENSAJE: Hola, quisiera saber mas sobre el proyecto, de preferencia por correo electrónico para leerla. gracias
+- 
+  entry_date: 2021-10-29 17:55:22
+  entry_key: 'Alejandro  Mendez'
+  entry_content: |
+    NOMBRE: Alejandro  Mendez
+    
+    EMAIL: soloyo_24@hotmail.com
+    
+    TELEFONO: 5547853523
+    
+    MENSAJE: Hola, quisiera saber mas sobre el proyecto, de preferencia por correo electrónico para leerla. gracias
+- 
+  entry_date: 2021-10-29 17:55:22
+  entry_key: 'Alejandro  Mendez'
+  entry_content: |
+    NOMBRE: Alejandro  Mendez
+    
+    EMAIL: soloyo_24@hotmail.com
+    
+    TELEFONO: 5547853523
+    
+    MENSAJE: Hola, quisiera saber mas sobre el proyecto, de preferencia por correo electrónico para leerla. gracias
+- 
+  entry_date: 2021-10-29 17:55:21
+  entry_key: 'Alejandro  Mendez'
+  entry_content: |
+    NOMBRE: Alejandro  Mendez
+    
+    EMAIL: soloyo_24@hotmail.com
+    
+    TELEFONO: 5547853523
+    
+    MENSAJE: Hola, quisiera saber mas sobre el proyecto, de preferencia por correo electrónico para leerla. gracias
+- 
+  entry_date: 2021-10-29 17:55:21
+  entry_key: 'Alejandro  Mendez'
+  entry_content: |
+    NOMBRE: Alejandro  Mendez
+    
+    EMAIL: soloyo_24@hotmail.com
+    
+    TELEFONO: 5547853523
+    
+    MENSAJE: Hola, quisiera saber mas sobre el proyecto, de preferencia por correo electrónico para leerla. gracias
+- 
+  entry_date: 2021-10-29 17:55:21
+  entry_key: 'Alejandro  Mendez'
+  entry_content: |
+    NOMBRE: Alejandro  Mendez
+    
+    EMAIL: soloyo_24@hotmail.com
+    
+    TELEFONO: 5547853523
+    
+    MENSAJE: Hola, quisiera saber mas sobre el proyecto, de preferencia por correo electrónico para leerla. gracias
+- 
+  entry_date: 2021-10-29 17:55:20
+  entry_key: 'Alejandro  Mendez'
+  entry_content: |
+    NOMBRE: Alejandro  Mendez
+    
+    EMAIL: soloyo_24@hotmail.com
+    
+    TELEFONO: 5547853523
+    
+    MENSAJE: Hola, quisiera saber mas sobre el proyecto, de preferencia por correo electrónico para leerla. gracias
+- 
+  entry_date: 2021-10-29 17:55:15
+  entry_key: 'Alejandro  Mendez'
+  entry_content: |
+    NOMBRE: Alejandro  Mendez
+    
+    EMAIL: soloyo_24@hotmail.com
+    
+    TELEFONO: 5547853523
+    
+    MENSAJE: Hola, quisiera saber mas sobre el proyecto, de preferencia por correo electrónico para leerla. gracias
+- 
+  entry_date: 2021-10-29 17:55:15
+  entry_key: 'Alejandro  Mendez'
+  entry_content: |
+    NOMBRE: Alejandro  Mendez
+    
+    EMAIL: soloyo_24@hotmail.com
+    
+    TELEFONO: 5547853523
+    
+    MENSAJE: Hola, quisiera saber mas sobre el proyecto, de preferencia por correo electrónico para leerla. gracias
+- 
+  entry_date: 2021-10-29 17:55:15
+  entry_key: 'Alejandro  Mendez'
+  entry_content: |
+    NOMBRE: Alejandro  Mendez
+    
+    EMAIL: soloyo_24@hotmail.com
+    
+    TELEFONO: 5547853523
+    
+    MENSAJE: Hola, quisiera saber mas sobre el proyecto, de preferencia por correo electrónico para leerla. gracias
+- 
+  entry_date: 2021-10-29 17:55:15
+  entry_key: 'Alejandro  Mendez'
+  entry_content: |
+    NOMBRE: Alejandro  Mendez
+    
+    EMAIL: soloyo_24@hotmail.com
+    
+    TELEFONO: 5547853523
+    
+    MENSAJE: Hola, quisiera saber mas sobre el proyecto, de preferencia por correo electrónico para leerla. gracias
+- 
+  entry_date: 2021-10-29 17:55:14
+  entry_key: 'Alejandro  Mendez'
+  entry_content: |
+    NOMBRE: Alejandro  Mendez
+    
+    EMAIL: soloyo_24@hotmail.com
+    
+    TELEFONO: 5547853523
+    
+    MENSAJE: Hola, quisiera saber mas sobre el proyecto, de preferencia por correo electrónico para leerla. gracias
+- 
+  entry_date: 2021-10-29 17:55:14
+  entry_key: 'Alejandro  Mendez'
+  entry_content: |
+    NOMBRE: Alejandro  Mendez
+    
+    EMAIL: soloyo_24@hotmail.com
+    
+    TELEFONO: 5547853523
+    
+    MENSAJE: Hola, quisiera saber mas sobre el proyecto, de preferencia por correo electrónico para leerla. gracias
+- 
+  entry_date: 2021-10-29 17:55:14
+  entry_key: 'Alejandro  Mendez'
+  entry_content: |
+    NOMBRE: Alejandro  Mendez
+    
+    EMAIL: soloyo_24@hotmail.com
+    
+    TELEFONO: 5547853523
+    
+    MENSAJE: Hola, quisiera saber mas sobre el proyecto, de preferencia por correo electrónico para leerla. gracias
+- 
+  entry_date: 2021-10-29 17:55:07
+  entry_key: 'Alejandro  Mendez'
+  entry_content: |
+    NOMBRE: Alejandro  Mendez
+    
+    EMAIL: soloyo_24@hotmail.com
+    
+    TELEFONO: 5547853523
+    
+    MENSAJE: Hola, quisiera saber mas sobre el proyecto, de preferencia por correo electronico para lerrla. gracias
+- 
+  entry_date: 2021-10-29 17:55:07
+  entry_key: 'Alejandro  Mendez'
+  entry_content: |
+    NOMBRE: Alejandro  Mendez
+    
+    EMAIL: soloyo_24@hotmail.com
+    
+    TELEFONO: 5547853523
+    
+    MENSAJE: Hola, quisiera saber mas sobre el proyecto, de preferencia por correo electronico para lerrla. gracias
+- 
+  entry_date: 2021-10-29 17:55:07
+  entry_key: 'Alejandro  Mendez'
+  entry_content: |
+    NOMBRE: Alejandro  Mendez
+    
+    EMAIL: soloyo_24@hotmail.com
+    
+    TELEFONO: 5547853523
+    
+    MENSAJE: Hola, quisiera saber mas sobre el proyecto, de preferencia por correo electronico para lerrla. gracias
+- 
+  entry_date: 2021-10-29 17:55:06
+  entry_key: 'Alejandro  Mendez'
+  entry_content: |
+    NOMBRE: Alejandro  Mendez
+    
+    EMAIL: soloyo_24@hotmail.com
+    
+    TELEFONO: 5547853523
+    
+    MENSAJE: Hola, quisiera saber mas sobre el proyecto, de preferencia por correo electronico para lerrla. gracias
+- 
+  entry_date: 2021-10-29 17:55:00
+  entry_key: 'Alejandro  Mendez'
+  entry_content: |
+    NOMBRE: Alejandro  Mendez
+    
+    EMAIL: soloyo_24@hotmail.com
+    
+    TELEFONO: 5547853523
+    
+    MENSAJE: Hola, quisiera saber mas sobre el proyecto, de preferencia por correo electronico para lerrla. gracias
+- 
+  entry_date: 2021-08-09 20:02:26
+  entry_key: >
+    googlecom2mailemail https://google.com
+    8539
+  entry_content: |
+    NOMBRE: googlecom2mailemail https://google.com 8539
+    
+    EMAIL: SchukinRatibor1994@bk.ru
+    
+    TELEFONO: SchukinRatibor1994@bk.ru
+- 
+  entry_date: 2021-08-08 19:09:43
+  entry_key: a2catsfunnyvidd https://google.com 6248
+  entry_content: |
+    NOMBRE: a2catsfunnyvidd https://google.com 6248
+    
+    EMAIL: gentnecziorie1983@web.de
+    
+    TELEFONO: gentnecziorie1983@web.de
+- 
+  entry_date: 2021-11-04 14:59:24
+  entry_key: Jonatan Ceja
+  entry_content: |
+    NOMBRE: Jonatan Ceja
+    
+    EMAIL: jonatanjonas@gmail.com
+    
+    TELEFONO: 3321239962
+    
+    MENSAJE: Hola
+- 
+  entry_date: 2022-08-30 14:59:32
+  entry_key: juan carlos rojas hernandez
+  entry_content: |
+    NOMBRE: juan carlos rojas hernandez
+    
+    EMAIL: jcrojas@dustcontrol.mx
+    
+    TELEFONO: 5534127435
+    
+    MENSAJE: hola. me gustaria enviar mi catalogo de productos al área de compras, me pueden proporcionar algún correo por favor? muchas gracias.

@@ -1,0 +1,21 @@
+Title: Servicios
+
+----
+
+Servicios:
+
+- 
+  titulo: Servicio 1
+  texto: PROYECTOS INMOBILIARIOS
+- 
+  titulo: Servicio 2
+  texto: DISEÑO Y COMODIDAD
+- 
+  titulo: Servicio 3
+  texto: VANGUARDIA Y SUSTENTABILIDAD
+
+----
+
+Fondo:
+
+- fondo.jpg

@@ -1,0 +1,36 @@
+Title: Detalles de contacto
+
+----
+
+Titulo: Si sine causa, nollem me ab illo inventore
+
+----
+
+Subtitulo: Lorem Ipsum
+
+----
+
+Direccion:
+
+Av. Revolución 3009
+Sta Fe, CP 55500
+Ciudad de México
+
+----
+
+Telefono: 33 2123 9962
+
+----
+
+Whatsapp: +523313218999
+
+----
+
+Redes:
+
+- 
+  red: fa-facebook-f
+  enlace: https://www.facebook.com/
+- 
+  red: fa-twitter
+  enlace: https://www.twitter.com/

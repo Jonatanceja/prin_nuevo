@@ -1,0 +1,23 @@
+Title: Destacados
+
+----
+
+Related:
+
+- proyectos/proyecto-1
+
+----
+
+Titulo: Tlayacapan Morelos Pueblo Mágico
+
+----
+
+Subtitulo: Proyecto
+
+----
+
+Boton: Visítanos
+
+----
+
+Enlace: /proyectos/

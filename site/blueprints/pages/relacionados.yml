@@ -1,0 +1,17 @@
+fields:
+  related:
+    label: Related Pages
+    type: pages
+    template: proyecto
+  titulo:
+    label: Título
+    type: text
+  subtitulo:
+    label: Subtítulo
+    type: text
+  boton: 
+    label: Texto del boton
+    type: text
+  enlace:
+    label: enlace del botón
+    type: text

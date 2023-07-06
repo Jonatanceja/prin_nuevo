@@ -1,0 +1,4 @@
+title: Formulario
+sections:
+  formulario:
+    extends: formbuilder

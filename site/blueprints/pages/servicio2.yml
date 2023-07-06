@@ -1,0 +1,15 @@
+title: Servicio foto derecha
+
+fields:
+  imagen: 
+    type: files
+    label: Imagen
+  titulo:
+    type: text
+    label: Título
+  subtitulo:
+    type: text
+    label: Subtítulo
+  texto: 
+    type: textarea
+    label: Texto

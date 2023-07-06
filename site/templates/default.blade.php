@@ -1,4 +1,9 @@
 @extends('layouts.default')
 @section('content')
-    <h1>{{ $page->title()->html() }}</h1>
+
+<div class="container mx-auto my-40">
+<h1 class="text-2xl font-bold mb-12">{{ $page->title()->html() }}</h1>
+<p><?= $page->text()->kti() ?></p>
+</div>
+
 @endsection
